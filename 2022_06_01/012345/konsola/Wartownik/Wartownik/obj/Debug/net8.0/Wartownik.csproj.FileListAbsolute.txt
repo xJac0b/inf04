@@ -1,0 +1,15 @@
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\bin\Debug\net8.0\Wartownik.exe
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\bin\Debug\net8.0\Wartownik.deps.json
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\bin\Debug\net8.0\Wartownik.runtimeconfig.json
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\bin\Debug\net8.0\Wartownik.dll
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\bin\Debug\net8.0\Wartownik.pdb
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\Wartownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\Wartownik.AssemblyInfoInputs.cache
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\Wartownik.AssemblyInfo.cs
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\Wartownik.csproj.CoreCompileInputs.cache
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\Wartownik.sourcelink.json
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\Wartownik.dll
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\refint\Wartownik.dll
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\Wartownik.pdb
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\Wartownik.genruntimeconfig.cache
+C:\inf04\2022_06_01\012345\konsola\Wartownik\Wartownik\obj\Debug\net8.0\ref\Wartownik.dll
