@@ -1,0 +1,15 @@
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\bin\Debug\net8.0\Forum.exe
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\bin\Debug\net8.0\Forum.deps.json
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\bin\Debug\net8.0\Forum.runtimeconfig.json
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\bin\Debug\net8.0\Forum.dll
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\bin\Debug\net8.0\Forum.pdb
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\Forum.AssemblyInfoInputs.cache
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\Forum.AssemblyInfo.cs
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\Forum.csproj.CoreCompileInputs.cache
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\Forum.sourcelink.json
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\Forum.dll
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\refint\Forum.dll
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\Forum.pdb
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\Forum.genruntimeconfig.cache
+C:\inf04\2022_06_01_web\012345\konsola\Forum\Forum\obj\Debug\net8.0\ref\Forum.dll
