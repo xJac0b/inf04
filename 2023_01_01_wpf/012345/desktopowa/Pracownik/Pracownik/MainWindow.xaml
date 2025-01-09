@@ -1,0 +1,70 @@
+﻿<Window x:Class="Pracownik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pracownik"
+        mc:Ignorable="d"
+        Title="Dodaj pracownika 012345" Height="450" Width="800" Background="LightSteelBlue">
+    <Grid Height="440" VerticalAlignment="Top">
+        <GroupBox HorizontalAlignment="Left" Height="221" Header="Dane pracownika" Margin="42,67,0,0" VerticalAlignment="Top" Width="284">
+
+            <Grid HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80"></ColumnDefinition>
+                    <ColumnDefinition Width="150"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Label VerticalAlignment="Center" Height="26">Imię</Label>
+                <Label VerticalAlignment="Center" Grid.Row="1" Height="26">Nazwisko</Label>
+                <Label VerticalAlignment="Center" Grid.Row="2" Height="26">Stanowisko</Label>
+                <TextBox x:Name="firstNameBox" Grid.Column="1" Width="150" Height="24"/>
+                <TextBox x:Name="lastNameBox" Grid.Column="1" Grid.Row="1" Width="150" Height="24"/>
+                <ComboBox x:Name="roleComboBox" Grid.Column="1" Grid.Row="2" Width="150" Height="24">
+                    <Label Content="Kierownik"></Label>
+                    <Label Content="Starszy programista"></Label>
+                    <Label Content="Młodszy programista"></Label>
+                    <Label Content="Tester"></Label>
+                </ComboBox>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox HorizontalAlignment="Left" Height="221" Header="Generowanie hasła" Margin="469,67,0,0" VerticalAlignment="Top" Width="284">
+            <Grid HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80"></ColumnDefinition>
+                    <ColumnDefinition Width="150"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Label VerticalAlignment="Center">Ile znaków?</Label>
+                <TextBox x:Name="charNumberBox" Grid.Column="1" Width="150" Height="24"/>
+                <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
+                    <StackPanel VerticalAlignment="Top" Orientation="Horizontal" >
+                        <CheckBox x:Name="differentCases" VerticalAlignment="Center" IsChecked="True"></CheckBox>
+                        <Label>Małe i wielkie litery</Label>
+                    </StackPanel>
+                    <StackPanel VerticalAlignment="Top" Orientation="Horizontal">
+                        <CheckBox x:Name="digits" VerticalAlignment="Center"></CheckBox>
+                        <Label>Cyfry</Label>
+                    </StackPanel>
+                    <StackPanel VerticalAlignment="Top" Orientation="Horizontal">
+                        <CheckBox x:Name="specialChars" VerticalAlignment="Center"></CheckBox>
+                        <Label>Znaki specjalne</Label>
+                    </StackPanel>
+                </StackPanel>
+                <Button Click="Button_Click" Grid.Row="2" Grid.ColumnSpan="2" Width="80" Height="20" Foreground="White" Background="SteelBlue">Generuj hasło</Button>
+            </Grid>
+        </GroupBox>
+        <Button Click="Button_Click_1" Margin="270,310,270,103" Foreground="White" Background="#4682B4">Zatwierdź</Button>
+
+    </Grid>
+
+</Window>

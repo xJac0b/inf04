@@ -1,0 +1,15 @@
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\bin\Debug\net8.0\Nwd.exe
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\bin\Debug\net8.0\Nwd.deps.json
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\bin\Debug\net8.0\Nwd.runtimeconfig.json
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\bin\Debug\net8.0\Nwd.dll
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\bin\Debug\net8.0\Nwd.pdb
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\Nwd.GeneratedMSBuildEditorConfig.editorconfig
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\Nwd.AssemblyInfoInputs.cache
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\Nwd.AssemblyInfo.cs
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\Nwd.csproj.CoreCompileInputs.cache
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\Nwd.sourcelink.json
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\Nwd.dll
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\refint\Nwd.dll
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\Nwd.pdb
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\Nwd.genruntimeconfig.cache
+C:\inf04\2023_01_01_wpf\012345\konsola\Nwd\Nwd\obj\Debug\net8.0\ref\Nwd.dll
