@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Notatki.MainPage">
+
+    <StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Entry x:Name="nowaNotatka" HorizontalOptions="FillAndExpand" Placeholder="Nowy element"></Entry>
+            <Button Clicked="Button_Clicked" Text="DODAJ" TextColor="White" BackgroundColor="#DC143C"></Button>
+        </StackLayout>
+        <ListView ItemsSource="{Binding Notatki}" SeparatorColor="Crimson" SeparatorVisibility="Default">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding .}"></TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

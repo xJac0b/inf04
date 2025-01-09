@@ -1,0 +1,15 @@
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\bin\Debug\net8.0\Notatki.exe
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\bin\Debug\net8.0\Notatki.deps.json
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\bin\Debug\net8.0\Notatki.runtimeconfig.json
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\bin\Debug\net8.0\Notatki.dll
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\bin\Debug\net8.0\Notatki.pdb
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\Notatki.GeneratedMSBuildEditorConfig.editorconfig
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\Notatki.AssemblyInfoInputs.cache
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\Notatki.AssemblyInfo.cs
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\Notatki.csproj.CoreCompileInputs.cache
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\Notatki.sourcelink.json
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\Notatki.dll
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\refint\Notatki.dll
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\Notatki.pdb
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\Notatki.genruntimeconfig.cache
+C:\inf04\2023_01_01_mobilna\012345\konsola\Notatki\Notatki\obj\Debug\net8.0\ref\Notatki.dll
