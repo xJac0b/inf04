@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\inf04\\2023_06_01_wpf\\012345\\konsola\\Sito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E3B989-6A8D-41A5-8A14-AA6C8E42BEB5}|Sito\\Sito.csproj|c:\\inf04\\2023_06_01_wpf\\012345\\konsola\\sito\\sito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E3B989-6A8D-41A5-8A14-AA6C8E42BEB5}|Sito\\Sito.csproj|solutionrelative:sito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\inf04\\2023_06_01_wpf\\012345\\konsola\\Sito\\Sito\\Program.cs",
+              "RelativeDocumentMoniker": "Sito\\Program.cs",
+              "ToolTip": "C:\\inf04\\2023_06_01_wpf\\012345\\konsola\\Sito\\Sito\\Program.cs",
+              "RelativeToolTip": "Sito\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:32:35.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

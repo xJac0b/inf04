@@ -1,0 +1,15 @@
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\bin\Debug\net8.0\Sito.exe
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\bin\Debug\net8.0\Sito.deps.json
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\bin\Debug\net8.0\Sito.runtimeconfig.json
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\bin\Debug\net8.0\Sito.dll
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\bin\Debug\net8.0\Sito.pdb
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\Sito.GeneratedMSBuildEditorConfig.editorconfig
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\Sito.AssemblyInfoInputs.cache
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\Sito.AssemblyInfo.cs
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\Sito.csproj.CoreCompileInputs.cache
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\Sito.sourcelink.json
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\Sito.dll
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\refint\Sito.dll
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\Sito.pdb
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\Sito.genruntimeconfig.cache
+C:\inf04\2023_06_01_wpf\012345\konsola\Sito\Sito\obj\Debug\net8.0\ref\Sito.dll
