@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Czcionka.MainPage">
+
+    <StackLayout Margin="20">
+        <Label FontAttributes="Bold" FontSize="Title" TextColor="White" BackgroundColor="#558B2F">Właściwości czcionki</Label>
+        <Label x:Name="rozmiar" FontSize="Medium">Rozmiar: </Label>
+        <Slider x:Name="slider" ValueChanged="Slider_ValueChanged" Maximum="40"></Slider>
+        <Label x:Name="cytat">Dzień dobry</Label>
+        <Button Clicked="Button_Clicked" TextColor="White" HorizontalOptions="Center" BackgroundColor="#558B2F" Text=">>"></Button>
+    </StackLayout>
+
+</ContentPage>
