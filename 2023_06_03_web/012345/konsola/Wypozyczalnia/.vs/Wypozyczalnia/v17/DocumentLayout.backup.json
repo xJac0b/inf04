@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\inf04\\2023_06_03_web\\012345\\konsola\\Wypozyczalnia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82287A-79D3-4467-A4CE-2A7831038322}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\inf04\\2023_06_03_web\\012345\\konsola\\wypozyczalnia\\wypozyczalnia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D82287A-79D3-4467-A4CE-2A7831038322}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\inf04\\2023_06_03_web\\012345\\konsola\\Wypozyczalnia\\Wypozyczalnia\\Program.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Program.cs",
+              "ToolTip": "C:\\inf04\\2023_06_03_web\\012345\\konsola\\Wypozyczalnia\\Wypozyczalnia\\Program.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:52:11.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
