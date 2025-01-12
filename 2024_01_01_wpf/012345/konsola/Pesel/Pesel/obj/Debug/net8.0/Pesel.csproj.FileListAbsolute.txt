@@ -1,0 +1,15 @@
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\bin\Debug\net8.0\Pesel.exe
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\bin\Debug\net8.0\Pesel.deps.json
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\bin\Debug\net8.0\Pesel.runtimeconfig.json
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\bin\Debug\net8.0\Pesel.dll
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\bin\Debug\net8.0\Pesel.pdb
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\Pesel.GeneratedMSBuildEditorConfig.editorconfig
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\Pesel.AssemblyInfoInputs.cache
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\Pesel.AssemblyInfo.cs
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\Pesel.csproj.CoreCompileInputs.cache
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\Pesel.sourcelink.json
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\Pesel.dll
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\refint\Pesel.dll
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\Pesel.pdb
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\Pesel.genruntimeconfig.cache
+C:\inf04\2024_01_01_wpf\012345\konsola\Pesel\Pesel\obj\Debug\net8.0\ref\Pesel.dll
