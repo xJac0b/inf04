@@ -1,0 +1,15 @@
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\bin\Debug\net8.0\Narzedzia.exe
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\bin\Debug\net8.0\Narzedzia.deps.json
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\bin\Debug\net8.0\Narzedzia.runtimeconfig.json
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\bin\Debug\net8.0\Narzedzia.dll
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\bin\Debug\net8.0\Narzedzia.pdb
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\Narzedzia.GeneratedMSBuildEditorConfig.editorconfig
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\Narzedzia.AssemblyInfoInputs.cache
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\Narzedzia.AssemblyInfo.cs
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\Narzedzia.csproj.CoreCompileInputs.cache
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\Narzedzia.sourcelink.json
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\Narzedzia.dll
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\refint\Narzedzia.dll
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\Narzedzia.pdb
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\Narzedzia.genruntimeconfig.cache
+C:\inf04\2024_01_02_mobilka\012345\konsola\Narzedzia\Narzedzia\obj\Debug\net8.0\ref\Narzedzia.dll
